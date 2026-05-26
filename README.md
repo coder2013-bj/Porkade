@@ -29,7 +29,7 @@ The Porkade does not operate as a single monolithic application. Instead, it uti
          ▼                         ▼                         ▼
 ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
 │   Flappy Pork    │      │    Angry Pork    │      │    Crossy Pork   │
-│ (In Development) │      │ (Deep Dev/⚠️Lock) │      │  (Child Module)  │
+│                  │      │                  |      │                  │
 └──────────────────┘      └──────────────────┘      └──────────────────┘
          │                         │                         │
          └─────────────────────────┼─────────────────────────┘
